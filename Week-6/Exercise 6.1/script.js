@@ -14,3 +14,6 @@ var maxSubArr = function(arr) {
 
 const arr = [-2, 1, -3, 4, -1, 2, 1, -5, 4];
 console.log(maxSubArr(arr));
+
+//Time Complexity - O(n), where n is the length of array
+//Space Complexity - O(1)

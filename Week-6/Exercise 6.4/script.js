@@ -21,3 +21,6 @@ var maxProfit = function (prices) {
 const prices = [7, 1, 5, 3, 6, 4];
 
 console.log(maxProfit(prices));
+
+//Time complexity - O(n), where n is the length of array
+//Space Complexity - O(1)

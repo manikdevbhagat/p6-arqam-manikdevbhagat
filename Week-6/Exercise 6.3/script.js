@@ -28,3 +28,6 @@ var sortArray = function (nums) {
 var nums = [2, 0, 2, 1, 1, 0];
 
 sortArray(nums);
+
+//Time complexity - O(n), where n is the length of array
+//Space Complexity - O(1)
