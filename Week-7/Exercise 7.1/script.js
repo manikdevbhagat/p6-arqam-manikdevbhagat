@@ -98,3 +98,6 @@ var reverseList = function (list) {
 
 var afterReverse = reverseList(newList);
 console.log(afterReverse);
+
+//Time complexity - O(n)
+//Space Complexity - O(1)
